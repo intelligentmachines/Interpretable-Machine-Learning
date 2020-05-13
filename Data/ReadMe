@@ -1,0 +1,14 @@
+This is a data file for 1000 customers, their demographic and income data, the number of email and sms marketing they have been sent, and the monthly spending of each of the customers.
+
+Variable Description:
+
+Age - Age group of the customer - Young, Middle, Old
+Gender - Male or Female
+OwnHome - Shows wheteher the custoner owns or rents home
+Location - Far or Close - (Close within 20 miles radius)
+Married - Marital Status - Married/Single
+Salary - Monthly Salary
+Catalogs - Number of SMS marketing and Email marketing sent to the customer for a month
+History - Frequency of visit: High - more than 2 times a month. Middle - 1 to 2 times per month. Low- less than 1 times per month
+Children - Number of children per customer
+AmountSpent - Spending 
