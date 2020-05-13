@@ -12,3 +12,5 @@ Catalogs - Number of SMS marketing and Email marketing sent to the customer for 
 History - Frequency of visit: High - more than 2 times a month. Middle - 1 to 2 times per month. Low- less than 1 times per month
 Children - Number of children per customer
 AmountSpent - Spending 
+
+In our code, we loaded the data in as "dm" (data frame format)
